@@ -1,7 +1,11 @@
 # Columbia-Capstone-DNA-Methylation
 ### Capstone project collaborating with Unilever Researchers to understand age, BMI and smoking habits influence on DNA methylation.
 
-##### Contributors: Aditya Garg <ag3741@columbia.edu>, Chenchao Zang <cz2431@columbia.edu>, Papiya Sen <ps2893@columbia.edu>, Jun Guo <jg3555@columbia.edu>
+##### Contributors: 
+      - Aditya Garg <ag3741@columbia.edu>,
+      - Chenchao Zang <cz2431@columbia.edu>, 
+      - Papiya Sen <ps2893@columbia.edu>, 
+      - Jun Guo <jg3555@columbia.edu>.
 
 
 The primary research goals are to analyze the skin aging dataset and find CpG sites that are significantly associated with age, BMI and Smoking and to visualize results. 
