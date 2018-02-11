@@ -18,6 +18,6 @@ The primary research goals are to analyze the skin aging dataset and find CpG si
 
    - To see our final results: [Final Result.csv](https://github.com/ayourway/Columbia-Capstone-DNA-Methylation/blob/master/Final%20Result.csv)
 
-###Thanks for the help from our Capstone professor Dr. Andreas Mueller, Unilever partners Dr. David Gunn, Melissa Matzke, Sheila Rocha, and our teaching assistant Yogesh Garg.
+Thanks for the help from our Capstone professor Dr. Andreas Mueller, Unilever partners Dr. David Gunn, Melissa Matzke, Sheila Rocha, and our teaching assistant Yogesh Garg.
 
 The original repository is here: [zangcc0474/Capstone_Methylation](https://github.com/zangcc0474/Capstone_Methylation)
