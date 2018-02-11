@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README #
 
 This README would normally document whatever steps are necessary to get your application up and running.
@@ -27,3 +28,7 @@ This README would normally document whatever steps are necessary to get your app
 
 * Repo owner or admin
 * Other community or team contact
+=======
+# Columbia-Capstone-DNA-Methylation
+Capstone project collaborating with Unilever Researchers to understand age, bmi and smoking habits influence on DNA methylation.
+>>>>>>> 6cf613ebbc9b13194f59407474fb5949c23e5887
